@@ -1,3 +1,3 @@
 # Exercícios em Javascript (para iniciantes em programação)
 
-TESTE
+Atualizei meu readme
